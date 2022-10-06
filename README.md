@@ -8,17 +8,17 @@ Further information about each folder is provided in its README
 - Miscellaneous Works → MISC
 
 ### 1st Semester
-- Introdução à programação → IP
+- Introdução à programação (ACH2001) → IP
 
 ### 2nd Semester 
-- Algoritmos e Estrutura de Dados I → AED1
-- Introdução à Análise de Algoritmos → IAA
-- Matrizes, Vetores e Geometria Analítica → MVGA  
+- Algoritmos e Estrutura de Dados I (ACH2023) → AED1
+- Introdução à Análise de Algoritmos (ACH2002) → IAA
+- Matrizes, Vetores e Geometria Analítica (ACH2033) → MVGA  
 
 ### 3rd Semester 
-- Algoritmos e Estrutura de Dados II → AED2
-- Computação Orientada a Objetos → COO
-- Organização e Arquitetura de Computadores I → OACI
+- Algoritmos e Estrutura de Dados II (ACH2024) → AED2
+- Computação Orientada a Objetos (ACH2003) → COO
+- Organização e Arquitetura de Computadores I (ACH2034) → OACI
 
 ### 4th Semester 
-- Sistemas Operacionais → SO
+- Sistemas Operacionais (ACH2044) → SO
