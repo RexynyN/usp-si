@@ -1,0 +1,28 @@
+insere 30
+insere 50
+insere 90
+insere 170
+insere 60
+insere 70
+insere 80
+insere 40
+insere 100
+insere 110
+insere 120
+insere 130
+insere 140
+insere 190
+insere 150
+insere 160
+insere 180
+remove 70
+remove 120
+remove 130
+remove 140
+remove 150
+remove 160
+remove 170
+remove 180
+remove 190
+imprime
+fim

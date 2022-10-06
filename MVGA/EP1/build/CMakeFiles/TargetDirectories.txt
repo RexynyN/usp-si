@@ -1,0 +1,3 @@
+/home/breno/Área de Trabalho/mvga/build/CMakeFiles/rebuild_cache.dir
+/home/breno/Área de Trabalho/mvga/build/CMakeFiles/edit_cache.dir
+/home/breno/Área de Trabalho/mvga/build/CMakeFiles/ep.dir
