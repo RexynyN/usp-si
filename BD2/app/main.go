@@ -61,3 +61,11 @@ func main() {
 		log.Fatal("Erro ao encerrar servidor:", err)
 	}
 }
+
+func GetHii() string {
+	return "Hii"
+}
+
+func SayHii() {
+	log.Println(GetHii())
+}
